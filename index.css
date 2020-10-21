@@ -1,0 +1,96 @@
+header {
+  text-align:  center;
+  color: white;
+  background: green;
+  height: 30px;
+  width: 100%;
+  font-family: 'courier new';
+  padding-top: 10px;
+}
+body {
+  margin: 0px;
+  font-family: 'Arial';
+}
+footer {
+  text-align:  center;
+  color: white;
+  background: green;
+  height: 30px;
+  width: 100%;
+  padding-top: 10px;
+}
+h1#heading {
+  color: white;
+}
+p#Lorem{
+  color: white;
+}
+table {
+  width: 150px;
+  height: 130px;
+  text-align:  center;
+  color: white;
+  border: solid 1px silver;
+  float: right;
+}
+a{
+  color: red;
+}
+.left-panel-wrapper {
+  width: 30%;
+}
+.graphics {
+  width: 100px;
+  height: 100px;
+  border: 6px solid white;
+  border-radius: 20px 0px 20px 0px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+.page-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.right-panel-wrapper {
+  width: 30%;
+}
+.content-wrapper {
+  width: 40%;
+  padding: 0 30px;
+  background-color: blue;
+}
+.visual_styles {
+  font-size: medium;
+  color: white;
+  float: left;
+}
+.link {
+  text-align: center;
+  text-decoration: underline;
+  font-size: large;
+  font-weight: bold;
+}
+.navigation {
+  color: white
+}
+.right {
+  float: right;
+}
+h2#heading2 {
+  word-spacing: 10px;
+}
+span#span1 {
+  color: red;
+
+
+}
+li#example {
+  letter-spacing: 7px;
+  color: Aqua;
+}
+img {
+    position: relative;
+    left: 136px;
+    top: 148px;
+}
